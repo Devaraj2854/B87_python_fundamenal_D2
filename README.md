@@ -1,1 +1,1 @@
-# B87_python_fundamenal_D2
+# B87_python_fundamemtals_D1
